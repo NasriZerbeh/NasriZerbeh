@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 ![ProfileBackground](ProfileBackground.gif)
+=======
+<img src="ProfileBackground.jpeg" alt="ProfileBackground" width="800" heigth="450">
+>>>>>>> 05b95385427f3c1fb74ab20b6ac4b6e26c7592a7
 ## Hi there 👋
 
 <!--

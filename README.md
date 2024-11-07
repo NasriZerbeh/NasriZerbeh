@@ -1,4 +1,4 @@
-<img src="ProfileBackground.gif" alt="Background" width="810" heigth="338"/>
+<img src="ProfileBackground.gif" alt="Background" width="864" heigth="360"/>
 ## Hi there 👋
 
 <!--

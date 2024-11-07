@@ -1,4 +1,4 @@
-![ProfileBackground](ProfileBackground.jpeg)
+<img src="ProfileBackground.jpeg" alt="ProfileBackground" width="800" heigth="450">
 ## Hi there 👋
 
 <!--

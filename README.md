@@ -1,4 +1,4 @@
-![ProfileBackground](ProfileBackground.jpeg)
+![ProfileBackground](ProfileBackground.gif)
 ## Hi there 👋
 
 <!--

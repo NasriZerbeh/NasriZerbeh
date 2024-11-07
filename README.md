@@ -1,16 +1,16 @@
 <img src="ProfileBackground.gif" alt="Background" width="864" heigth="360"/>
 
-<p align="center"># Hi, my name is Nasri Zerbeh</p>
+<p align="center"><h1> Hi, my name is Nasri Zerbeh</h1></p>
 
-<p align="center">### I'm a junior backend developer learning about .net...</p>
+<p align="center"><h3> I'm a junior backend developer learning about .net...</h3></p>
 
-<p align="center">## My most advanced project at the moment is:</p>
+<p align="center"><h2> My most advanced project at the moment is:</h2></p>
 
-<p align="center">###- [Adventure_Village_Estadisticas](https://github.com/NasriZerbeh/Adventure_Village_Estadisticas):</p>
+<p align="center"><h3>- [Adventure_Village_Estadisticas](https://github.com/NasriZerbeh/Adventure_Village_Estadisticas):</h3></p>
 
-#### An administrative system of a non-real game.
+<p align="center"><h4> An administrative system of a non-real game.</h4></p>
 
-#### It was a project carried out in the 4th semester of my university.
+<p align="center"><h4> It was a project carried out in the 4th semester of my university.</h4></p>
 
 <!--
 **NasriZerbeh/NasriZerbeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

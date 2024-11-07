@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![ProfileBackground](ProfileBackground.gif)
 ## Hi there 👋
 
